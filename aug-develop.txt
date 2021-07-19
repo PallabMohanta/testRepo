@@ -1,3 +1,8 @@
 This is the progress with aug development.
 
+<<<<<<< HEAD
+this is the new code for aug release.
 This is new with sept release.
+=======
+this is the new code for aug release.
+>>>>>>> 9f7a5f72d47a405026c2da6de63c15bf723d29c3
